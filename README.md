@@ -10,15 +10,18 @@
 4. [License](#license)
 5. [Criteria For Assignment](#criteria-for-assignment)
 6. [Repo Link](#repository-link)
-7. [Example of Read Me](#example)
-8. [Walkthrough Video](#walk-through-video)
+8. [Deployed Website](#deployed-website)
 9. [Screen Shots](#screen-shots)
 
 ## Description
 
+For this application I was given starter code for a note taking application. I was tasked with creating the back end of the server so the user is able to take notes and save them.
+
 ## Usage
 
 ## Installation
+
+You will need to install node npm and use express to use this applicationa after cloning the repo.
 
 ## License
 
@@ -54,7 +57,7 @@ GIVEN a note-taking application
 
 [Github](https://github.com/PintoDrop/notetaker)
 
-## Deployed Application
+## Deployed-Website
 
 [Note Taker]()
 
