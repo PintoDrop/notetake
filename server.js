@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 const notes = require('./db/db.json');
 
-const api = require('./routes');
+// const api = require('./routes');
 
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
@@ -21,8 +21,16 @@ app.get("/notes", (req,res) => {
 });
 
 app.post("/api/notes", (req, res) => {
-  res.json(notes)
+  let newNote = {
+    title: req.body.title,
+    text: req.body.text
+  }
 })
+
+app.get("/api/notes", (req, res) =>{
+  res.json(notes) 
+})
+
 
 // if(err) {
 //   console.log(err)
@@ -37,12 +45,8 @@ app.post("/api/notes", (req, res) => {
 
 // fs.writeFile("./db/db.json", JSON.stringify(notes) => {
 //   ? console.log(notes);
-//   : console
+//   : console.log(notes);
 // })
-
-
-
-
 
 app.listen(PORT, () => 
   console.log(`Go to http://localhost:${PORT}`)
