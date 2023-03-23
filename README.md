@@ -57,7 +57,7 @@ GIVEN a note-taking application
 
 ## Repository-Link
 
-[Github](https://github.com/PintoDrop/notetaker)
+[Github](https://github.com/PintoDrop/notetake)
 
 ## Walkthrough-Video
 
