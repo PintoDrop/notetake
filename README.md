@@ -10,7 +10,7 @@
 4. [License](#license)
 5. [Criteria For Assignment](#criteria-for-assignment)
 6. [Repo Link](#repository-link)
-7. [Deployed Website](#deployed-website)
+7. [Walkthrough Video](#walkthrough-video)
 8. [Screen Shots](#screen-shots)
 
 ## Description
@@ -70,6 +70,8 @@ GIVEN a note-taking application
 ![Landing Page](./images/screenshot3.JPG)
 
 ![Note Page](./images/screenshot2.JPG)
+
+
 
 Heroku and github issue statement:
 
