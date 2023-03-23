@@ -15,7 +15,7 @@
 
 ## Description
 
-For this application I was given starter code for a note taking application. I was tasked with creating the back end of the server so the user is able to take notes and save them. The back end with server.js allows the user to enter and saves notes they can use personally. The notes will also be saved for the user to come back to later and can edit or add new notes. Unfortunately with heroku having issues with github I was unable to deploy the application and provided a screenshot from heroku about the issue.
+For this application I was given starter code for a note taking application. I was tasked with creating the back end of the server so the user is able to take notes and save them. The back end with server.js allows the user to enter and saves notes they can use personally. The notes will also be saved for the user to come back to later and can edit or add new notes. Unfortunately with heroku having issues with github I was unable to deploy the application and provided a screenshot from heroku about the issue. Due to an issue between github and heroku I was unable to deploy on heroku. I created a walk through video showing it through node server.js to show the features of the application as it can only run on a local server currently.
 
 ## Usage
 
@@ -59,13 +59,17 @@ GIVEN a note-taking application
 
 [Github](https://github.com/PintoDrop/notetaker)
 
-## Deployed-Website
+## Walkthrough-Video
 
-[Note Taker]()
+[Walkthrough Video](https://drive.google.com/file/d/1-rtNtXBmP0Wnvu-zr9SYkJy5ZDW9R5Xa/view)
+
+*Once I am able to deploy on heroku I will update this with the deployed website instead of the walkthrough video*
 
 ## Screen-Shots
 
-![Screenshot](./images/screenshot.JPG)
+![Landing Page](./images/screenshot3.JPG)
+
+![Note Page](./images/screenshot2.JPG)
 
 Heroku and github issue statement:
 
