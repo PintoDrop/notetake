@@ -67,4 +67,6 @@ GIVEN a note-taking application
 
 ![Screenshot](./images/screenshot.JPG)
 
+Heroku and github issue statement:
+
 ![Heroku-Issue](./images/heroku-issue-screenshot.JPG)
