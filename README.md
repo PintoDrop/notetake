@@ -63,4 +63,4 @@ GIVEN a note-taking application
 
 ## Screen-Shots
 
-![Screenshot]()
+![Screenshot](./images/screenshot.JPG)
