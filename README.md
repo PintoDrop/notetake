@@ -10,14 +10,16 @@
 4. [License](#license)
 5. [Criteria For Assignment](#criteria-for-assignment)
 6. [Repo Link](#repository-link)
-8. [Deployed Website](#deployed-website)
-9. [Screen Shots](#screen-shots)
+7. [Deployed Website](#deployed-website)
+8. [Screen Shots](#screen-shots)
 
 ## Description
 
-For this application I was given starter code for a note taking application. I was tasked with creating the back end of the server so the user is able to take notes and save them.
+For this application I was given starter code for a note taking application. I was tasked with creating the back end of the server so the user is able to take notes and save them. The back end with server.js allows the user to enter and saves notes they can use personally. The notes will also be saved for the user to come back to later and can edit or add new notes. Unfortunately with heroku having issues with github I was unable to deploy the application and provided a screenshot from heroku about the issue.
 
 ## Usage
+
+The user will be able to interact with this application to make and save notes for reminders for themselves. The user will be able to see their past notes on the left side and be able to open and edit them. The user will still be able to see all of there notes while editing a currently selected one. The current note being edited will appear on the right side of the page.
 
 ## Installation
 
@@ -64,3 +66,5 @@ GIVEN a note-taking application
 ## Screen-Shots
 
 ![Screenshot](./images/screenshot.JPG)
+
+![Heroku-Issue](./images/heroku-issue-screenshot.JPG)
