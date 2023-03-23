@@ -23,7 +23,7 @@ The user will be able to interact with this application to make and save notes f
 
 ## Installation
 
-You will need to install node npm and use express to use this applicationa after cloning the repo.
+You will need to install node npm, uuid@8.3.2 and express to use this applicationa after cloning the repo.
 
 ## License
 
